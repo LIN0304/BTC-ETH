@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #2E3440;
+    color: #D8DEE9;
+}
+
+h1 {
+    color: #ECEFF4;
+}
+
+#status {
+    margin-top: 20px;
+    font-size: 1.2em;
+}
+
+.chart-container {
+    margin-top: 20px;
+    background-color: #3B4252;
+    padding: 10px;
+}
